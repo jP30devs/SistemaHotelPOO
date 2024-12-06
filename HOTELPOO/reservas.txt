@@ -1,0 +1,1 @@
+Hospede ID: 3, Quarto: Hospedagem [Quarto = 3, Capacidade = 5], reservado=true
